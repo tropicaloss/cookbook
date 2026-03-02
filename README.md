@@ -12,15 +12,3 @@ To add your own workflows, open a [PR](https://github.com/catto-oss/cookbook/pul
 
 ## Instructions
 To apply a workflow to your own projects, copy and paste a file from the [`workflows/`](https://github.com/catto-oss/cookbook/blob/main/workflows) and replace every instance of `__BINARY__` and replace it with your binary/application name.
-
----
-
-<div align=center>
-  
-<img src="https://raw.githubusercontent.com/catto-oss/brand/refs/heads/main/footer.png" width="565" height="565" />
-
-Created by [catto labs/oss](https://github.com/catto-oss)
-
-![License](https://img.shields.io/github/license/catto-oss/cookbook?style=for-the-badge&color=b4befe)
-
-</div>
